@@ -22,8 +22,6 @@ Here are some links to help get and install Libero
 Online Help Forum
 
 * https://forum.microchip.com/s/forums?&forumId=a553l000000J2q3AAC&forumName=FPGA&page=1&offset=0
-* https://forum.beagleboard.org/c/beaglev/15
-* https://discord.com/channels/1108795636956024986/1169639932206252103
 
 Other Boards
 ------------
